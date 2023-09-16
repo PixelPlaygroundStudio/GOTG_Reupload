@@ -1,0 +1,73 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+#Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.out
+*.app
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.csproj
+*.csproj.user
+
+# User content
+/Editor/WiwaEditor.exe
+/Editor/Wiwa.dll
+/Editor/Library
+*.meta
+imgui.ini
+/Editor/config/panels.json
+!/Editor/config/player_data.json
+# VA config
+
+/JSON/
+
+# Temp
+bin
+bin-int
+/.vs
+Intermediates/
+*.vsidx
+*.lock
+*.com%002Ffwlink%002F%003Flinkid%003D835884
+Editor/.vs/AppAssembly/v17/.suo
+Editor/.vs/AppAssembly/v16/.suo
+*.pdb
+*.ngfx-proj
+
+# Dlls
+Editor/resources/scripts/Wiwa-ScriptCore.dll
+Editor/resources/scripts/Wiwa-AppAssembly.dll
+
+# Game build
+Editor/game/build
+Editor/game/.vs
+Editor/game/Wiwa.lib
+
+# Game assembly
+Editor/game_assembly/.vs
+Editor/game_assembly/build
+
+# Rider files
+.idea/
+*sln.DotSettings.user

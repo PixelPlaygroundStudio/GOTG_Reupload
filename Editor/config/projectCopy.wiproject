@@ -1,0 +1,64 @@
+{
+    "name": "GOTG:BattleForTheUniverse",
+    "version": "0.4",
+    "company": "PixelPlayground",
+    "target": 0,
+    "scene_list": [
+        {
+            "name": "LVL_IntroLogo",
+            "path": "library/scenes/game_scenes/menus/lvl_intrologo.wiscene"
+        },
+        {
+            "name": "LVL_IntroVideoLore",
+            "path": "library/scenes/game_scenes/menus/lvl_introvideolore.wiscene"
+        },
+        {
+            "name": "LVL_MainMenu",
+            "path": "library/scenes/game_scenes/menus/lvl_mainmenu.wiscene"
+        },
+        {
+            "name": "LVL_HUB",
+            "path": "library/scenes/game_scenes/rooms/lvl_hub.wiscene"
+        },
+        {
+            "name": "LVL_StartingRoom",
+            "path": "library/scenes/game_scenes/rooms/lvl_startingroom.wiscene"
+        },
+        {
+            "name": "LVL_CombatRoom01",
+            "path": "library/scenes/game_scenes/rooms/lvl_combatroom01.wiscene"
+        },
+        {
+            "name": "LVL_CombatRoom02",
+            "path": "library/scenes/game_scenes/rooms/lvl_combatroom02.wiscene"
+        },
+        {
+            "name": "LVL_CombatRoom03",
+            "path": "library/scenes/game_scenes/rooms/lvl_combatroom03.wiscene"
+        },
+        {
+            "name": "LVL_CombatRoom04",
+            "path": "library/scenes/game_scenes/rooms/lvl_combatroom04.wiscene"
+        },
+        {
+            "name": "LVL_CombatRoom06",
+            "path": "library/scenes/game_scenes/rooms/lvl_combatroom06.wiscene"
+        },
+        {
+            "name": "LVL_CombatRoom07",
+            "path": "library/scenes/game_scenes/rooms/lvl_combatroom07.wiscene"
+        },
+        {
+            "name": "LVL_RewardRoom01",
+            "path": "library/scenes/game_scenes/rooms/lvl_rewardroom01.wiscene"
+        },
+        {
+            "name": "LVL_ShopRoom01",
+            "path": "library/scenes/game_scenes/rooms/lvl_shoproom01.wiscene"
+        },
+        {
+            "name": "LVL_BossRoom01",
+            "path": "library/scenes/game_scenes/rooms/lvl_bossroom01.wiscene"
+        }
+    ]
+}

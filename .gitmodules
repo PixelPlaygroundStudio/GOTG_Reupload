@@ -1,0 +1,4 @@
+[submodule "Wiwa/vendor/imgui"]
+	path = Wiwa/vendor/imgui
+	url = https://github.com/ZaroDev/imgui/
+	branch = docking
