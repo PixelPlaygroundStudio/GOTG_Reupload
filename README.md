@@ -18,8 +18,7 @@ With you all, Guardians of the Galaxy: Battle for the Universe!
 
 ## Trailer
 
-![Trailer](https://www.youtube.com/watch?v=UuwqqZc86cQ&ab_channel=PixelPlayground-GotG%3ABattlefortheUniverse "GOTG")  
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UuwqqZc86cQ/0.jpg)](https://www.youtube.com/watch?v=UuwqqZc86cQ)
 ## More Info on our website
 
 https://pixelplaygroundgam.wixsite.com/pixelplayground/the-studio
